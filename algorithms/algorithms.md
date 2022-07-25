@@ -1,5 +1,5 @@
 # 1/6 Searching
-##- Binary Search
+- Binary Search
 
 # 2/6 Sorting
 
