@@ -88,5 +88,5 @@
 - Disjoint-set Data Structure 
 - Bloom Filter 
 
-### Reference
+### References
 - https://www.linkedin.com/pulse/list-algorithms-computer-programming-pranam-bhat/
